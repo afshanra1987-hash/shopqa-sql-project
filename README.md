@@ -93,6 +93,45 @@ They include:
 - GitHub
 
 ---
+---
+
+## Project Goal
+
+The purpose of this project is to demonstrate SQL knowledge commonly used in Manual QA and QA Analyst roles.
+
+The project covers database validation, query execution, joins, and test data verification.
+
+---
+
+## Skills
+
+- SQL
+- Database Testing
+- Manual Testing
+- MySQL
+- DBeaver
+- Postman
+- Jira
+- GitHub
+
+---
+
+## Sample Results
+
+### Create Tables
+
+![Create Tables](screenshots/sql_00_create_tables.png)
+
+### SELECT
+
+![SELECT](screenshots/sql_01_select_all_products.png)
+
+### INNER JOIN
+
+![INNER JOIN](screenshots/sql_07_inner_join_result.png)
+
+
+
 
 ## Author
 
