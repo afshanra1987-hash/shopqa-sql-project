@@ -2,72 +2,100 @@
 
 ## Overview
 
-This project demonstrates SQL skills by designing and querying a simple e-commerce database using MySQL.
+This project demonstrates SQL skills used in Manual QA testing for an e-commerce application.
 
 The project includes:
 
 - Database design
-- Table relationships
-- Primary Keys
-- Foreign Keys
-- Sample data
+- Table creation
+- Primary & Foreign Keys
+- Data insertion
 - SQL queries
-- INNER JOIN
+- Filtering
+- Sorting
 - Aggregate functions
+- INNER JOIN
+- API Testing
+- Bug Reporting
 
 ---
 
-## Database Structure
-
-The database contains four tables:
+## Database Tables
 
 - Users
 - Products
 - Orders
-- Order Items
+- Order_Items
 
 ---
 
 ## SQL Skills Demonstrated
 
-- CREATE DATABASE
-- CREATE TABLE
-- INSERT INTO
+### Create Tables
+
+- Primary Keys
+- Foreign Keys
+- Relationships
+
+### Data Retrieval
+
 - SELECT
 - WHERE
 - ORDER BY
+- LIKE
+
+### Aggregate Functions
+
 - COUNT()
 - AVG()
-- LIKE
+
+### Joins
+
 - INNER JOIN
 
 ---
 
-## Technologies
+## QA Skills Demonstrated
+
+- SQL Validation
+- Database Testing
+- Functional Testing
+- API Testing using Postman
+- Bug Reporting in Jira
+
+---
+
+## Screenshots
+
+All project screenshots are available inside the **screenshots** folder.
+
+They include:
+
+- Database Schema
+- SQL Queries
+- Query Results
+- API Testing
+- Jira Bug Report
+- Shop Pages
+- Login
+- Cart
+- Checkout
+
+---
+
+## Tools
 
 - MySQL
 - DBeaver
-
----
-
-## Project Files
-
-- schema.sql
-- insert_data.sql
-- queries.sql
-
----
-
-## Sample Query
-
-```sql
-SELECT *
-FROM products
-WHERE price > 500;
-```
+- Postman
+- Jira
+- Git
+- GitHub
 
 ---
 
 ## Author
 
 Afshan Rajabi
+
+Manual QA Engineer
