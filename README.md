@@ -1,6 +1,6 @@
 # 🗄️ ShopQA SQL Project
 
-A SQL database project demonstrating database design, data validation, and SQL querying skills commonly used by Manual QA Engineers and QA Analysts.
+SQL database project demonstrating database design, data validation, and SQL querying skills commonly used by Manual QA Engineers and QA Analysts.
 
 ---
 
@@ -19,7 +19,7 @@ This project covers:
 
 ---
 
-# 🗂 Database Structure
+# 🗂️ Database Structure
 
 The database consists of four related tables:
 
@@ -78,7 +78,7 @@ Relationships include:
 
 ---
 
-# 🛠 Tools & Technologies
+# 🛠️ Tools & Technologies
 
 - MySQL
 - DBeaver
@@ -152,34 +152,34 @@ README.md
 
 ---
 
-## API Testing
-
-![API Testing](Screenshots/API_Testing_Postman.png)
-
----
-
-## Bug Report
-
-![Bug Report](Screenshots/jira_bug_report.png)
-
----
-
-# 📚 Learning Outcomes
+# 📈 Learning Outcomes
 
 Through this project I practiced:
 
-- Writing SQL queries for database validation
+- Writing SQL queries
 - Creating relational databases
-- Verifying table relationships using JOINs
 - Validating application data
-- Executing aggregate SQL functions
-- Supporting Manual QA database testing
+- Using JOINs to verify database relationships
+- Executing aggregate queries
+- Supporting Manual QA database validation
 
 ---
 
 # 🔗 Related Projects
 
-### ShopEase Manual QA Portfolio
+## ShopEase QA Portfolio
+
+A complete Manual QA portfolio including:
+
+- Test Plan
+- Test Cases
+- Bug Reports
+- API Testing
+- Smoke Testing
+- Regression Testing
+- SQL Validation
+
+Repository:
 
 https://github.com/afshanra1987-hash/ShopEase-QA-Portfolio
 
