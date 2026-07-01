@@ -8,6 +8,8 @@ SQL database project demonstrating database validation skills for a Manual QA En
 
 The purpose of this project is to demonstrate SQL knowledge commonly used in Manual QA and QA Analyst roles.
 
+The project covers database validation, query execution, joins, and test data verification.
+
 This project covers:
 
 - Database Design
@@ -82,6 +84,8 @@ Relationships include:
 
 - MySQL
 - DBeaver
+- SQL
+- Database Testing
 - Postman
 - Jira
 - Git
@@ -95,7 +99,7 @@ Relationships include:
 schema.sql
 insert_data.sql
 queries.sql
-screenshots/
+Screenshots/
 README.md
 ```
 
@@ -148,6 +152,18 @@ README.md
 ## INNER JOIN
 
 ![INNER JOIN](Screenshots/sql_07_inner_join_result.png)
+
+---
+
+## API Testing
+
+![API Testing](Screenshots/API_Testing_Postman.png)
+
+---
+
+## Bug Report
+
+![Bug Report](Screenshots/jira_bug_report.png)
 
 ---
 
