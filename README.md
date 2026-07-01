@@ -105,49 +105,49 @@ README.md
 
 ## Database Tables
 
-![Create Tables](screenshots/sql_00_create_tables.png)
+![Create Tables](Screenshots/sql_00_create_tables.png)
 
 ---
 
 ## SELECT Query
 
-![SELECT](screenshots/sql_01_select_all_products.png)
+![SELECT](Screenshots/sql_01_select_all_products.png)
 
 ---
 
 ## WHERE Clause
 
-![WHERE](screenshots/sql_02_products_price_over_500.png)
+![WHERE](Screenshots/sql_02_products_price_over_500.png)
 
 ---
 
 ## ORDER BY
 
-![ORDER BY](screenshots/sql_03_products_sorted_by_price_desc.png)
+![ORDER BY](Screenshots/sql_03_products_sorted_by_price_desc.png)
 
 ---
 
 ## COUNT()
 
-![COUNT](screenshots/sql_04_total_products_count.png)
+![COUNT](Screenshots/sql_04_total_products_count.png)
 
 ---
 
 ## AVG()
 
-![AVG](screenshots/sql_05_average_price.png)
+![AVG](Screenshots/sql_05_average_price.png)
 
 ---
 
 ## LIKE
 
-![LIKE](screenshots/sql_06_products_name_like_apple.png)
+![LIKE](Screenshots/sql_06_products_name_like_apple.png)
 
 ---
 
 ## INNER JOIN
 
-![INNER JOIN](screenshots/sql_07_inner_join_result.png)
+![INNER JOIN](Screenshots/sql_07_inner_join_result.png)
 
 ---
 
